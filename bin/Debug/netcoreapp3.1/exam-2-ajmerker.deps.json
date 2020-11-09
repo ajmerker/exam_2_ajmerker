@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exam-2-ajmerker/1.0.0": {
+        "runtime": {
+          "exam-2-ajmerker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exam-2-ajmerker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

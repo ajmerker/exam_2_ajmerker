@@ -1,0 +1,13 @@
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.exe
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.deps.json
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.runtimeconfig.json
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.runtimeconfig.dev.json
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.dll
+C:\source\repos\exam-2-ajmerker\bin\Debug\netcoreapp3.1\exam-2-ajmerker.pdb
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.csprojAssemblyReference.cache
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.AssemblyInfoInputs.cache
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.AssemblyInfo.cs
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.csproj.CoreCompileInputs.cache
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.dll
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.pdb
+C:\source\repos\exam-2-ajmerker\obj\Debug\netcoreapp3.1\exam-2-ajmerker.genruntimeconfig.cache
